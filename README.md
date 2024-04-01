@@ -22,6 +22,14 @@ The varaibles included in this dataset consisted of:
 - 	total debt
 - 	loan status
 
+Overview:
+
+Split the Data into Training and Testing Sets
+
+Create a Logistic Regression Model with the Original Data
+
+Write a Credit Risk Analysis Report
+
 
 
 
