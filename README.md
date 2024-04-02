@@ -23,6 +23,7 @@ The varaibles included in this dataset consisted of:
 - 	loan status
 
 ## Logistic Regression Model Overview:
+The model shows us how well it is performing. Particularly in terms of its ability to correctly identify positive and negative instances, as well as its errors in misclassifying instances as positive when they are negative and vice versa.
 
 
 
