@@ -10,7 +10,7 @@ The instructions for this Challenge are divided into the following subsections:
 
 - Write a Credit Risk Analysis Report
 
-# Analysis Report 
+## Analysis Report 
 
 The varaibles included in this dataset consisted of:
 - 	loan size
